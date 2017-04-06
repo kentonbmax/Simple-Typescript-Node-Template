@@ -1,0 +1,26 @@
+{
+  "name": "ts_node_template",
+  "version": "1.0.0",
+  "description": "A typescript node js template  for VSC with some batteries included. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "node",
+    "js",
+    "template"
+  ],
+  "author": "Kenton Bocock aka GinjaCoder",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.61",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^7.0.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
