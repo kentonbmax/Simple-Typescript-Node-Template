@@ -1,6 +1,11 @@
 # Simple-Typescript-Node-Template
 Typescript + Node + Visual Studio Code + Batteries
 
+Current Batteries
+- custom object
+- example lodashjs
+- example momentjs
+
 First make sure you configure your personal settings for Visual Studio Code. 
 
 Caution!!
