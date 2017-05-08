@@ -1,4 +1,5 @@
 # Simple-Typescript-Node-Template
+![explosion-153710_640](https://cloud.githubusercontent.com/assets/15804484/25819031/9cd76898-33fa-11e7-8d28-f4971b15e265.png)
 Typescript + Node + Visual Studio Code + Batteries
 
 Current Batteries
